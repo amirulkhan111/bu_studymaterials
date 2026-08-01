@@ -23,4 +23,4 @@ These rules apply to every note in this repository:
     - [b) Emphasis on Decorum in Aristotle & Horace](literary-genres-theory-and-practice/part-1-classical-theories-of-genre/b-decorum-in-aristotle-and-horace/notes.md)
     - [c) Classical understanding of genre: rules vs. representation](literary-genres-theory-and-practice/part-1-classical-theories-of-genre/c-genre-as-rules-and-representation/notes.md)
     - [d) Epic](literary-genres-theory-and-practice/part-1-classical-theories-of-genre/d-epic/notes.md)
-    - e) Longinus's concept of the sublime — *pending*
+    - [e) Longinus's concept of the sublime](literary-genres-theory-and-practice/part-1-classical-theories-of-genre/e-longinus-sublime/notes.md)
