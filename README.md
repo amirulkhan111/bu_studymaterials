@@ -24,3 +24,10 @@ These rules apply to every note in this repository:
     - [c) Classical understanding of genre: rules vs. representation](literary-genres-theory-and-practice/part-1-classical-theories-of-genre/c-genre-as-rules-and-representation/notes.md)
     - [d) Epic](literary-genres-theory-and-practice/part-1-classical-theories-of-genre/d-epic/notes.md)
     - [e) Longinus's concept of the sublime](literary-genres-theory-and-practice/part-1-classical-theories-of-genre/e-longinus-sublime/notes.md)
+    - [Part I Study Document (.docx)](literary-genres-theory-and-practice/part-1-classical-theories-of-genre/Part-I-Classical-Theories-of-Genre.docx)
+    - [Part I Question Bank (.docx)](literary-genres-theory-and-practice/part-1-classical-theories-of-genre/Part-I-Question-Bank.docx)
+  - [Part II — Genre in the Renaissance](literary-genres-theory-and-practice/part-2-genre-in-the-renaissance/)
+    - [a) Sidney's views on mixed genre](literary-genres-theory-and-practice/part-2-genre-in-the-renaissance/a-sidney-mixed-genre/notes.md)
+    - b) Renaissance grammarians on genre (Gascoigne & Ascham) — *pending*
+    - c) Tragicomedy — *pending*
+    - d) Sonnet — *pending*
