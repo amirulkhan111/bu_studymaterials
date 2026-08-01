@@ -20,7 +20,7 @@ These rules apply to every note in this repository:
 - **Literary Genres in Theory and Practice**
   - [Part I — Classical Theories of Genre](literary-genres-theory-and-practice/part-1-classical-theories-of-genre/)
     - [a) Aristotle's views on tragedy and comedy](literary-genres-theory-and-practice/part-1-classical-theories-of-genre/a-aristotle-tragedy-and-comedy/notes.md)
-    - b) Emphasis on Decorum in Aristotle & Horace — *pending*
+    - [b) Emphasis on Decorum in Aristotle & Horace](literary-genres-theory-and-practice/part-1-classical-theories-of-genre/b-decorum-in-aristotle-and-horace/notes.md)
     - c) Classical understanding of genre: rules vs. representation — *pending*
     - d) Epic — *pending*
     - e) Longinus's concept of the sublime — *pending*
