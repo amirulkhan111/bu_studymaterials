@@ -29,5 +29,5 @@ These rules apply to every note in this repository:
   - [Part II — Genre in the Renaissance](literary-genres-theory-and-practice/part-2-genre-in-the-renaissance/)
     - [a) Sidney's views on mixed genre](literary-genres-theory-and-practice/part-2-genre-in-the-renaissance/a-sidney-mixed-genre/notes.md)
     - [b) Renaissance grammarians on genre (Gascoigne & Ascham)](literary-genres-theory-and-practice/part-2-genre-in-the-renaissance/b-renaissance-grammarians-gascoigne-ascham/notes.md)
-    - c) Tragicomedy — *pending*
+    - [c) Tragicomedy](literary-genres-theory-and-practice/part-2-genre-in-the-renaissance/c-tragicomedy/notes.md)
     - d) Sonnet — *pending*
